@@ -7,6 +7,8 @@ info:
   description: EcologyOA filedownloadforoutdoc interface has SQL injection
   reference:
     - https://mp.weixin.qq.com/s/SdN5YpZvBf6KVCxrWDs0Iw
+  metadata:
+    hunter-query: app.name=="泛微 e-cology 9.0 OA"
   tags: ecology-oa,sqli
 
 requests:
