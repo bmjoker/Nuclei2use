@@ -1,4 +1,4 @@
-id: CVE-2023-32315
+id: Openfire-Unauth
 
 info:
   name: Administration Console Authentication Bypass in Openfire Console
